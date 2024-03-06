@@ -16,22 +16,26 @@ Thank you for visiting our Downloads page. We hope you find these resources valu
 
 ## Resources
 
-### Tahun Pelajaran 2022/2023
+### Perangkat Praktikum
 
-- Administrasi Infrastruktur Jaringan (Kompetensi Keahlian: Teknik Komputer dan Jaringan)
-  - [Soal Penilaian Tengah Semester (PTS) 1 - Pilihan Ganda](/assets/downloads/2022-23%20PTS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20PG.docx)
-  - [Soal Penilaian Tengah Semester (PTS) 1 - Esai](/assets/downloads/2022-23%20PTS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Esai.docx)
-  - [Soal Penilaian Akhir Semester (PAS) 1 - Pilihan Ganda](/assets/downloads/2022-23%20PAS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20PG.docx)
-  - [Soal Penilaian Tengah Semester (PTS) 2 - Pilihan Ganda](/assets/downloads/2022-23%20PTS2%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Soal.docx)
-  - [Soal Penilaian Akhir Tahun (PAT) - Pilihan Ganda](/assets/downloads/2022-23%20PAS2%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Soal.docx)
+### Perangkat Pembelajaran
 
-### Tahun Pelajaran 2023/2024
+Tahun Pelajaran 2022/2023
+Mata Pelajaran: Administrasi Infrastruktur Jaringan
 
-- Rancang Bangun Jaringan (Kompetensi Keahlian: Teknik Komputer dan Jaringan)
-  - ...
-  - ...
-  - ...
-  - Soal Asesmen Sumatif Tengah Semester 1
-  - Soal Asesmen Sumatif Akhir Semester 1
-  - Soal Asesmen Sumatif Tengah Semester 2
-  - Soal Asesmen Sumatif Akhir Tahun
+- [Soal Penilaian Tengah Semester (PTS) 1 - Pilihan Ganda](/assets/downloads/2022-23%20PTS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20PG.docx)
+- [Soal Penilaian Tengah Semester (PTS) 1 - Esai](/assets/downloads/2022-23%20PTS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Esai.docx)
+- [Soal Penilaian Akhir Semester (PAS) 1 - Pilihan Ganda](/assets/downloads/2022-23%20PAS1%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20PG.docx)
+- [Soal Penilaian Tengah Semester (PTS) 2 - Pilihan Ganda](/assets/downloads/2022-23%20PTS2%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Soal.docx)
+- [Soal Penilaian Akhir Tahun (PAT) - Pilihan Ganda](/assets/downloads/2022-23%20PAS2%20-%20XI%20TKJ%20-%20Adm%20Infrastruktur%20Jaringan%20-%20Soal.docx)
+
+Tahun Pelajaran 2023/2024
+Mata Pelajaran: Teknik Komputer dan Jaringan (Rancang Bangun Jaringan)
+
+- ...
+- ...
+- ...
+- Soal Asesmen Sumatif Tengah Semester 1
+- Soal Asesmen Sumatif Akhir Semester 1
+- Soal Asesmen Sumatif Tengah Semester 2
+- Soal Asesmen Sumatif Akhir Tahun
