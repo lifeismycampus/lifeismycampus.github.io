@@ -149,7 +149,7 @@ Peta jaringan ini akan dibagi ke dalam wilayah atau akan dipetakan menggunakan a
 
 ![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/07.png){: .normal }
 
-Dari awal, protocol jenis link-state mengetahui topologi jaringan secara keseluruhan dengan mengumpulkan informasi dari setiap router.
+Dari awal, protocol jenis link-state mengetahui topologi jaringan secara keseluruhan dengan mengumpulkan informasi dari setiap router. Metric yang digunakan salah satunya adalah bandwidth.
 
 Update akan terjadi hanya jika terjadi failure maupun perubahan topologi jaringan.
 
