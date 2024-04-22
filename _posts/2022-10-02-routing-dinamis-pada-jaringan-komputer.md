@@ -107,13 +107,13 @@ Macam-macam protokol routing dan algoritma yang digunakan adalah sebagai berikut
 
 Pembagian jenis protokol routing seperti pada bagan berikut
 
-![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/03.png){: .normal }
+![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/03fig09_alt.jpg){: .normal }
+
+![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/04.png){: .normal }
 
 ### Autonomous System
 
 Autonomous System (AS) adalah alamat jaringan dijalankan oleh yang suatu operator jaringan dibawah satu kebijakan routing, contoh yang paling mudah yaitu jaringan ISP (Internet Service Provider).
-
-![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/04.png){: .normal }
 
 Kaitannya dengan AS, Interior Gateway Protocol (IGP) diaplikasikan pada pengelolaan routing suatu jaringan dalam sebuah AS (Autonomous System), misal dalam suatu jaringan ISP.
 
@@ -131,13 +131,15 @@ Router harus memutuskan jalur paket berdasarkan distance dan vector.
 
 1. Distance
 
-   jauhnya source network menuju destination berdasarkan metric. Metric dihitung dari hop count, cost, bandwidth, delay, dll.
+   jauhnya source network menuju destination berdasarkan metric. Metric biasanya dihitung dari jumlah hop yang dilewati (hop count).
 
-1. Vector (Direction)
+2. Vector (Direction)
 
    arah dari next hop router untuk menuju ke destination.
 
-Protocol jenis Distance Vector hanya mengetahui route dan metric untuk menuju destination tertentu.
+Dari awal, protocol jenis Distance Vector tidak langsung mengetahui topologi jaringan secara keseluruhan, melainkan hanya mengetahui route dan metric untuk menuju destination tertentu.
+
+Setiap router akan mengirimkan routing update secara rutin dalam kurun waktu tertentu, misalkan 30 detik sekali.
 
 ### Link State
 
@@ -147,8 +149,12 @@ Peta jaringan ini akan dibagi ke dalam wilayah atau akan dipetakan menggunakan a
 
 ![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/07.png){: .normal }
 
-Protocol jenis link-state mengetahui topologi jaringan secara keseluruhan dengan mengumpulkan informasi dari setiap router.
+Dari awal, protocol jenis link-state mengetahui topologi jaringan secara keseluruhan dengan mengumpulkan informasi dari setiap router.
+
+Update akan terjadi hanya jika terjadi failure maupun perubahan topologi jaringan.
 
 Area yang harus ada pada link-state adalah area 0 atau backbone.
 
 Pembagian menjadi area-area ini bertujuan mengurangi resource router dengan setiap area mempunyai table routing yang berbeda dengan area yang lain.
+
+![Life is My Campus](/assets/img/2022-10-02-routing-dinamis-pada-jaringan-komputer/distance_vector-vs-link_state.png){: .normal }
