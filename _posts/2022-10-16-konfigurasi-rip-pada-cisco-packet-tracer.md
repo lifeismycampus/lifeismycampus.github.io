@@ -253,4 +253,6 @@ Sebagai bahan latihan, rancang topologi jaringan routing di SMKN 1 Gombong mengg
 
 3. dengan topologi jaringan sebagai berikut
 
-   ![Life is My Campus](/assets/img/2022-10-16-konfigurasi-rip-pada-cisco-packet-tracer/24.png)
+   ![Life is My Campus](/assets/img/2022-10-16-konfigurasi-rip-pada-cisco-packet-tracer/rip_berlatih_top.png)
+
+   bisa diunduh [di sini](/assets/pkt/2022-10-16-konfigurasi-rip-pada-cisco-packet-tracer/konfigurasi-rip-berlatih.pkt).
