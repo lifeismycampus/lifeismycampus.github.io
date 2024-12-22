@@ -21,12 +21,6 @@ Harapan saya, semoga saya dan anda dapat belajar bersama, saling berbagi ilmu pe
 
 Jika anda memiliki pertanyaan, kritik, saran, maupun masukan agar blog maupun informasi yang saya sampaikan menjadi lebih baik, jangan ragu untuk menghubungi saya melalui komentar atau melalui halaman kontak yang tersedia di blog ini.
 
-Selain dari blog ini, saya juga aktif menulis di blog lain di
-
-**[NGLINUX](https://nglinux.com)** – _Nyoba konfiG LINUX, yuk!_
-
-yang merupakan tempat saya mendokumentasikan materi pembelajaran untuk siswa saya terutama tentang konfigurasi Linux baik desktop maupun server, saya tunggu kunjungan anda.
-
 Saya merasa sangat terhormat dan mengucapkan terima kasih sudah berkunjung ke blog ini. Saya berharap anda akan menemukan sesuatu yang bermanfaat di sini.
 
 Salam, Angga.
