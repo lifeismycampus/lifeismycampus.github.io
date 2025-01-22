@@ -101,10 +101,10 @@ Sebuah alamat IP terususun daari 4 oktet yang di dalam 1 oktet berisi 8 bit / bi
 
 Jika sebuah oktet bernilai biner 1 semua, maka 11111111
 
-| Oktet    | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 1            |
-| -------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Eksponen | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> | 2<sup></sup> |
-| Desimal  | 128          | 64           | 32           | 16           | 8            | 4            | 2            | 1            |
+| Oktet    | 1             | 1             | 1             | 1             | 1             | 1             | 1             | 1             |
+| -------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Eksponen | 2<sup>7</sup> | 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup> | 2<sup>0</sup> |
+| Desimal  | 128           | 64            | 32            | 16            | 8             | 4             | 2             | 1             |
 
 Total dari seluruh konversi desimal adalah
 

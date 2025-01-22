@@ -37,7 +37,15 @@ Mata Pelajaran: Teknik Komputer dan Jaringan (Rancang Bangun Jaringan)
 - Soal Asesmen Sumatif Tengah Semester 2
 - Soal Asesmen Sumatif Akhir Tahun
 
-Tahun Pelajaran 2024/2024
+Tahun Pelajaran 2024/2025
+Mata Pelajaran: Teknik Komputer dan Jaringan (Rancang Bangun Jaringan)
+
+- Soal Asesmen Sumatif Tengah Semester 1
+- Soal Asesmen Sumatif Akhir Semester 1
+- Soal Asesmen Sumatif Tengah Semester 2
+- Soal Asesmen Sumatif Akhir Tahun
+
+Tahun Pelajaran 2025/2026
 Mata Pelajaran: Teknik Komputer dan Jaringan (Rancang Bangun Jaringan)
 
 - Soal Asesmen Sumatif Tengah Semester 1

@@ -10,6 +10,7 @@ tags: [subnetting, linux]
 ## Ulasan
 
 ## Alat dan Bahan
+
 1. Komputer dengan spesifikasi minimal untuk menjalankan VirtualBox.
 1. VirtualBox.
 1. Image file Debian.

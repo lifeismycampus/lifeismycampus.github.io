@@ -78,11 +78,11 @@ namun, dengan prefix dapat ditulis secara singkat menjadi,
 
 Notasi network prefix juga dikenal dengan sebutan notasi Classless InterDomain Routing (CIDR).
 
-| Kelas | Prefix Length         |
-| ----- | --------------------- |
-| A     | /8 - /15 (/8 - /30)   |
-| B     | /16 - /23 (/16 - /30) |
-| C     | /24 - /30             |
+| Kelas | Prefix Length |
+| ----- | ------------- |
+| A     | /8 - /15      |
+| B     | /16 - /23     |
+| C     | /24 - /30     |
 
 CIDR digunakan untuk mempermudah penulisan notasi subnet mask agar lebih ringkas dibandingkan penulisan notasi subnet mask yang sesungguhnya.
 
